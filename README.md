@@ -22,7 +22,7 @@ Welcome to the Rick And Morty project, an online assessment for Walmart. This pr
 
 ## 🚀 Deployment
 
-The project is deployed on **Vercel**, a platform built to serve Next.js applications in an optimal manner. You can visit the live project [here](https://ricky-and-morty-two.vercel.app/).
+The project is deployed on **Vercel**, a platform built to serve Next.js applications in an optimal manner. You can visit the live project [here](https://walmart-asessment.vercel.app/).
 
 ## 🏃 Local Development
 
